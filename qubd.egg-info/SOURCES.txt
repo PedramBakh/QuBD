@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+qubd/__init__.py
+qubd.egg-info/PKG-INFO
+qubd.egg-info/SOURCES.txt
+qubd.egg-info/dependency_links.txt
+qubd.egg-info/top_level.txt

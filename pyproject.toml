@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qubd"
+version = "0.0.1"
+description = "Estimating the Kolmogorov-Chaitin-Solomonoff (KCS) complexity of large-scale objects."
+readme = "README.md"
+authors = [
+    {name = "Pedram Bakhtiarifard"},
+    {name = "Sophia N. Wilson"},
+    {name = "Mahmoud H. A. Afifi"},
+    {name = "Jonathan Wenshøj"},
+    {name = "Raghavendra Selvan"},
+]
+
+[project.urls]
+Repository = "https://github.com/pedrambakh/qubd"
+
+[tool.setuptools]
+packages = ["qubd"]

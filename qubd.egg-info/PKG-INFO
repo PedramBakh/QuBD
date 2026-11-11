@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: qubd
+Version: 0.0.1
+Summary: Estimating the Kolmogorov-Chaitin-Solomonoff (KCS) complexity of large-scale objects.
+Author: Pedram Bakhtiarifard, Sophia N. Wilson, Mahmoud H. A. Afifi, Jonathan Wenshøj, Raghavendra Selvan
+Project-URL: Repository, https://github.com/pedrambakh/qubd
+Description-Content-Type: text/markdown
+
+# QuBD
+
+QuBD estimates the Kolmogorov–Chaitin–Solomonoff (KCS) complexity
+of large-scale objects.
+
+The Python package is planned for release in 2027.
+
+The research code is available at https://github.com/saintslab/QuBD/.
